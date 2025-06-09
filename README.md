@@ -71,8 +71,4 @@ PassGen
 
 ---
 
-## 📸 Screenshot
 
-> ![Screenshot of the React Currency Converter UI](![alt text](image.png))
-
----
